@@ -2,6 +2,14 @@
   color: red;
 }
 
+img {
+  width: 250px;
+}
+
+h1 {
+  text-align: center;
+}
+
 #best {
   font-style: italic;
   font-weight: bold;
